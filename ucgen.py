@@ -1,9 +1,9 @@
 def bütünler(açı):
-    cevapb = int(açı) - int(+360)
+    cevapb = int(açı) - int(+180)
     print(cevapb)
 
 def tümler(açı):
-    cevapt = int(açı) - int(+180)
+    cevapt = int(açı) - int(+90)
     print(cevapt)
 
 
